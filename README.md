@@ -63,7 +63,7 @@ I'm a 21-year-old full-stack developer and cybersecurity engineer with over 6 ye
 🧠 [**RE-Playground**](https://github.com/hikariIoTe/RE-Playground)  
 > A collection of reverse engineering challenges, crackmes, and binary obfuscation exercises.
 
-📡 [**IoT-Breaker**](https://github.com/hikariIoT/IoT-Breaker)  
+📡 [**IoT-Breaker**](Soon...)  
 > Firmware extraction and vulnerability analysis tools targeting IoT devices.
 
 ---
