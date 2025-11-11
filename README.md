@@ -60,9 +60,6 @@ I'm a 21-year-old full-stack developer and cybersecurity engineer with over 6 ye
 🔐 [**BotnetCNC Research**](https://github.com/hikariIoT/BotnetCNC)  
 > Simulated command-and-control infrastructure for educational insights into distributed attacks.
 
-🧠 [**RE-Playground**](https://github.com/hikariIoTe/RE-Playground)  
-> A collection of reverse engineering challenges, crackmes, and binary obfuscation exercises.
-
 📡 [**IoT-Breaker**](Soon...)  
 > Firmware extraction and vulnerability analysis tools targeting IoT devices.
 
@@ -70,8 +67,6 @@ I'm a 21-year-old full-stack developer and cybersecurity engineer with over 6 ye
 
 ### 📜 Certifications & Education
 - 🏫 Self-taught with continuous learning in advanced cybersecurity and development  
-- 📘 OSCP (in progress/planned)
-
 ---
 
 ### 📫 Connect With Me
