@@ -70,11 +70,11 @@ I'm a 21-year-old full-stack developer and cybersecurity engineer with over 6 ye
 ---
 
 ### 📫 Connect With Me
-- 🌐 Website: [Hikari.uno]  
+- 🌐 Website: [In development]  
 - 🔗 Telegram: [t.me/wifebeater32)  
 - 📬 Email: [HikariIT@proton.me  
 - 📍 Based in [Denmark] | Open to remote internships, collaborations & full-time roles  
 
 ---
 
-> *– Hikari*
+> *– Zeth*
